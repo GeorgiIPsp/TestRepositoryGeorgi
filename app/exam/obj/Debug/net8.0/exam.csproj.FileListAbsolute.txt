@@ -1,0 +1,14 @@
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\bin\Debug\net8.0\exam.exe
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\bin\Debug\net8.0\exam.deps.json
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\bin\Debug\net8.0\exam.runtimeconfig.json
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\bin\Debug\net8.0\exam.dll
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\bin\Debug\net8.0\exam.pdb
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.AssemblyInfoInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.AssemblyInfo.cs
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.csproj.CoreCompileInputs.cache
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.dll
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\refint\exam.dll
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.pdb
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\exam.genruntimeconfig.cache
+C:\Users\georg\OneDrive\Рабочий стол\exam\app\exam\obj\Debug\net8.0\ref\exam.dll
