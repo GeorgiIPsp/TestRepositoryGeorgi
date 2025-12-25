@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Рабочий стол\\exam\\app\\exam\\exam.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\OneDrive\\Documents\\exam\\app\\exam\\exam.csproj",
       "projectName": "exam",
-      "projectPath": "C:\\Users\\georg\\OneDrive\\Рабочий стол\\exam\\app\\exam\\exam.csproj",
+      "projectPath": "C:\\Users\\georg\\OneDrive\\Documents\\exam\\app\\exam\\exam.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\georg\\OneDrive\\Рабочий стол\\exam\\app\\exam\\obj\\",
+      "outputPath": "C:\\Users\\georg\\OneDrive\\Documents\\exam\\app\\exam\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\georg\\AppData\\Roaming\\NuGet\\NuGet.Config",
